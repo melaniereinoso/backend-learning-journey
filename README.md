@@ -1,16 +1,28 @@
-# backend-learning-journey
-Documentando mi aprendizaje de Python y desarrollo backend desde cero.
+# Python Learning Journey 
 
-# Mi camino para convertirme en Backend Developer
-Hola, soy Melanie.
+## About
+Documentation of my Python learning path as part of my transition 
+into QA Engineering.
 
-En este repositorio documento mi aprendizaje de Python y desarrollo backend desde cero.
+## Current Course
+- 📚 Curso Maestro de Python: De Cero a Programador Todoterreno
+- 🏫 Starting TripleTen QA Engineering Bootcamp - July 2026
 
-## Objetivos
+## What I'm Learning
+- Python fundamentals
+- Variables, functions and data structures
+- Object Oriented Programming (OOP)
+- Unit testing with Pytest
+- Working with APIs
 
-- Aprender Python
-- Aprender Git y GitHub
-- Aprender bases de datos
-- Aprender APIs REST
-- Aprender Django y FastAPI
+## Goals
+- 🎯 Become a QA Engineer / SDET
+- 🔧 Master test automation with Python and Selenium
+- 🚀 Relocating to Philadelphia, PA - 2027
 
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/melanie-reinoso-611736387)
