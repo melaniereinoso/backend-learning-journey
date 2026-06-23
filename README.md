@@ -18,7 +18,7 @@ into QA Engineering.
 ## Goals
 - 🎯 Become a QA Engineer / SDET
 - 🔧 Master test automation with Python and Selenium
-- 🚀 Relocating to Philadelphia, PA - 2027
+
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
